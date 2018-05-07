@@ -1,0 +1,4 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="zbar.victor.com.library" >
+    <uses-permission android:name="android.permission.CAMERA" />
+</manifest>
